@@ -3,3 +3,4 @@ function cheer(parameter, parameter2) {
 }   
 
 cheer('kamilla', 'is confused');
+
