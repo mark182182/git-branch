@@ -1,6 +1,6 @@
 
-count = (number) => {
+count = (numberOfAge) => {
   console.log(`your age is ${number} `)
 }
 
-count(28)
+count(18)
