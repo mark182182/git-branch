@@ -1,5 +1,5 @@
-function greetme(name, another) {
-  console.log(name, another);
+function greetme(parameter) {
+  console.log(`Greetings for the ${parameter}`);
 }
 
-greetme('Greetings!', 'Mark');
+greetme('Alopex');
