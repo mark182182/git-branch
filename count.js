@@ -1,6 +1,6 @@
 
 count = (numberOfAge) => {
-  console.log(`your month of birth is ${numberOfAge}`)
+  console.log(`Counting the countless ${numberOfAge}`)
 }
 
 count(11)
