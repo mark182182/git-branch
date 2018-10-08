@@ -1,6 +1,6 @@
 
 count = (numberOfAge) => {
-  console.log(`your age is ${number} `)
+  console.log(`your month of birth is ${numberOfAge}`)
 }
 
-count(18)
+count(11)
